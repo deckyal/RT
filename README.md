@@ -7,7 +7,7 @@ Requirements :
 2. Tensorflow GPU : https://www.tensorflow.org/install/install_linux
 3. Other package, can be installed by cloning my environment file on src : env.yml
 
-<b> Landmark Tracker 
+<b> Landmark Tracker </b>
 This main module used to do the tracking for both 2D and 3DA-2D facial landmark. To use : 
   
   python testRealtime.py
