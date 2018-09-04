@@ -8,6 +8,7 @@ Requirements :
 3. Other package, can be installed by cloning my environment file on src : env.yml
 
 <b> Landmark Tracker </b>
+
 This main module used to do the tracking for both 2D and 3DA-2D facial landmark. To use : 
   
   python testRealtime.py
@@ -20,6 +21,7 @@ Example video :
 ![3DA-2D Facial landmark Tracking](obamaShort.gif)
 
 <b> Facial Localisation </b>
+
 This module can be used independently to localise facial points from still image. To use : 
 
   python facial_localiser.py 
