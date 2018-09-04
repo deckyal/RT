@@ -13,7 +13,7 @@ This main module used to do the tracking for both 2D and 3DA-2D facial landmark.
   
   python testRealtime.py
  
-Also set the is3D in that file to True to have 3D points, False otherwise. Other configuration including filename of video can be set on the configuration.py file on src.
+Also set the is3D in that file to True to have 3D points, False otherwise. Other configuration including filename of video can be set on the configuration.py file on src. Especially to use webcam or the video input. 
 
 Example video : 
 
