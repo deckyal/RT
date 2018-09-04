@@ -2,6 +2,16 @@
 
 This is our repository of our paper xxxxx. 
 
+Requirements : 
+1. MTCNN requirements : 
+2. Tensorflow GPU
+3. Other package, can be installed by cloning my environment file here : 
+
+<b> Landmark Tracker 
+This main module used to do the tracking for both 2D and 3DA-2D facial landmark. To use : 
+
+Example video : 
+
 ![2D Facial Landmark Tracking](trumpShort.gif)
 ![3DA-2D Facial landmark Tracking](obamaShort.gif)
 
