@@ -1,3 +1,3 @@
 # RT
 
-![](name-of-giphy.gif)
+![](obamaShort.gif)
