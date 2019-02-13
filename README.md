@@ -39,3 +39,7 @@ Some examples :
 python train.py
 
 ![Localisation example of 3DA-2D landmark](3d.png)
+
+citation : 
+
+D.  Latif,  O.  Pujol,  F.  Sukno,  and  X.  Binefa,  “Fully  end-to-end composite recurrent convolution network for deformablefacial tracking in the wild,” in2019 14th IEEE InternationalConference on Automatic Face Gesture Recognition (FG2019), In Press.
