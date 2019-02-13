@@ -1,6 +1,6 @@
 # RT
 
-This is our repository of our paper (to be announced). 
+This is our repository of our paper (Fully  end-to-end composite recurrent convolution network for deformablefacial tracking in the wild). 
 
 Requirements : 
 1. MTCNN requirements : https://github.com/DuinoDu/mtcnn
