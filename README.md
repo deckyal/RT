@@ -1,6 +1,6 @@
 # RT
 
-This is our repository of our paper (Fully  end-to-end composite recurrent convolution network for deformablefacial tracking in the wild). 
+This is our repository of our paper (Fully  end-to-end composite recurrent convolution network for deformable facial tracking in the wild). 
 
 Requirements : 
 1. MTCNN requirements : https://github.com/DuinoDu/mtcnn
@@ -42,4 +42,4 @@ python train.py
 
 citation : 
 
-D.  Latif,  O.  Pujol,  F.  Sukno,  and  X.  Binefa,  “Fully  end-to-end composite recurrent convolution network for deformablefacial tracking in the wild,” in2019 14th IEEE InternationalConference on Automatic Face Gesture Recognition (FG2019), In Press.
+D.  Latif,  O.  Pujol,  F.  Sukno,  and  X.  Binefa,  “Fully  end-to-end composite recurrent convolution network for deformable facial tracking in the wild,” in 2019 14th IEEE InternationalConference on Automatic Face Gesture Recognition (FG2019), In Press.
