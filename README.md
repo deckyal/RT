@@ -12,7 +12,10 @@ Requirements :
 This main module used to do the tracking for both 2D and 3DA-2D facial landmark. To use : 
   
   python testRealtime.py
- 
+  
+Real time example : 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/iUwJQelqYV4/0.jpg)](http://www.youtube.com/watch?v=iUwJQelqYV4 "Demo video of facial tracking")
+  
 Also set the is3D in that file to True to have 3D points, False otherwise. Other configuration including filename of video can be set on the configuration.py file on src. Especially to use webcam or the video input. 
 
 Example video : 
