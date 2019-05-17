@@ -1,4 +1,4 @@
-# RT
+# Recurrent Tracker (RT)
 
 This is our repository of our paper (Fully  end-to-end composite recurrent convolution network for deformable facial tracking in the wild). 
 
