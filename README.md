@@ -21,6 +21,7 @@ Example video :
 ![3DA-2D Facial landmark Tracking](obamaShort.gif)
 
 Real time example : 
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/iUwJQelqYV4/0.jpg)](http://www.youtube.com/watch?v=iUwJQelqYV4 "Demo video of facial tracking")
   
 <b> Facial Localisation </b>
