@@ -1,6 +1,6 @@
 # Recurrent Tracker (RT)
 
-This is our repository of our paper (Fully  end-to-end composite recurrent convolution network for deformable facial tracking in the wild). 
+This is our repository of our <a href="https://ieeexplore.ieee.org/abstract/document/8756630">paper</a> (Fully  end-to-end composite recurrent convolution network for deformable facial tracking in the wild). 
 
 Requirements : 
 1. MTCNN requirements : https://github.com/DuinoDu/mtcnn
@@ -44,6 +44,6 @@ python train.py
 
 ![Localisation example of 3DA-2D landmark](3d.png)
 
-citation : 
+Citation : 
 
-D.  Latif,  O.  Pujol,  F.  Sukno,  and  X.  Binefa,  “Fully  end-to-end composite recurrent convolution network for deformable facial tracking in the wild,” in 2019 14th IEEE InternationalConference on Automatic Face Gesture Recognition (FG2019), In Press.
+D.  Aspandi,   O.  Martinez,   F.  Sukno,   X.  Binefa,   Fully  end-to-endcomposite  recurrent  convolution  network  for  deformable  facial  track-ing  in  the  wild,   in:    2019  14th  IEEE  International  Conference  onAutomatic   Face   Gesture   Recognition   (FG   2019),   2019,   pp.   1–8.doi:10.1109/FG.2019.8756630.
