@@ -40,8 +40,6 @@ Some examples :
 
 3DA-2D Facial landmark : 
 
-python train.py
-
 ![Localisation example of 3DA-2D landmark](3d.png)
 
 Citation : 
